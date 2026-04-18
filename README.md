@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 👨‍💻 About Me
+
+* 👋 Hi, I'm Himanshu
+* 🎓 BCA student at University of Allahabad
+* 💻 Passionate about Web Development
+* 🌱 Currently learning Java, JavaScript, React & DSA
+* 🚀 Love building projects and improving my skills every day
+
+
+
 
 
 ## 🌐 Socials:
