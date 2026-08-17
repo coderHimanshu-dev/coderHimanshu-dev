@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Himanshu+Verma;Full-Stack+Developer+💻;DSA+Learner+;Open+Source+Contributor+🌍;Tech+Explorer+🚀;&loop=true" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Himanshu+Verma;MERN-Stack+Developer+💻;DSA+Learner+;Open+Source+Contributor+🌍;Tech+Explorer+🚀;&loop=true" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views -->
@@ -13,7 +13,7 @@
 ---
 
 <h1 align="center">
-Frontend Developer | Building Responsive Web Apps with JavaScript, React.js & Tailwind CSS | Open Source Contributor @ GSSoC’26 | Community & Social Media Team @ Quantum Quirks | BCA @ University of Allahabad
+MERN Stack Developer | Building Responsive Web Apps with JavaScript, React.js & Tailwind CSS | Node.js, Express.js & MongoDb | Open Source Contributor @ GSSoC’26 | Community & Social Media Team @ Quantum Quirks |PW campus ambassador| BCA @ University of Allahabad
 </h1>
 
 ---
