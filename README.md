@@ -508,7 +508,8 @@ PORTFOLIO SYSTEMS
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=coderHimanshu-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+  src="https://github-profile-trophy.vercel.app/?username=coderHimanshu-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  width="100%"
   alt="GitHub Trophies"
 />
 
