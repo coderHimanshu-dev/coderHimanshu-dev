@@ -9,7 +9,7 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&height=45&lines=J.A.R.V.I.S.%2C+Initialize+Developer+Protocol...;MERN+Stack+Developer;Frontend+Engineering+%E2%9C%93;Building+Full+Stack+Systems;Backend+%2B+AI+%2B+System+Design;Build.+Ship.+Innovate."
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&height=45&lines=MERN+Stack+Developer;Frontend+Engineering+%E2%9C%93;Building+Full+Stack+Systems;Backend+%2B+AI+%2B+System+Design;Build.+Ship.+Innovate."
   alt="Typing Animation"
 />
 
@@ -23,53 +23,47 @@
 
 ---
 
-# ⚡ J.A.R.V.I.S. // SYSTEM ONLINE
+# ⚡ ABOUT ME // HIMANSHU VERMA
 
 ### Hello, I'm **Himanshu Verma**.
 
 I'm a **MERN Stack Developer** and BCA student at the **University of Allahabad**, focused on building modern, responsive and useful web applications.
 
-My strongest engineering area is **Frontend Development**.
+My strongest engineering area is **Frontend Development**, and I'm expanding deeper into backend engineering, databases, DSA, system design, AI and cloud technologies.
 
-I have built a solid foundation across:
+My core foundation includes:
 
 `HTML` · `CSS` · `JavaScript` · `React` · `Redux` · `Tailwind CSS` · `React Router` · `REST APIs` · `Responsive UI` · `Animations`
 
-Now I'm going deeper into:
+I enjoy turning ideas into real products, learning through practical development, and collaborating with student and developer communities.
 
-**Backend Engineering → Databases → DSA → System Design → AI → Cloud & DevOps**
-
-I enjoy turning ideas into real products and learning by building.
-
-> **Iron Man fan. Developer by choice. Stark aesthetic by design.**
+> **MERN Developer. Builder. Learner. Community-driven.**
 
 ---
 
-# 🟥 STARK PROFILE // DEVELOPER DOSSIER
+# 👨‍💻 DEVELOPER PROFILE
 
 <div align="center">
 
-| SYSTEM             | STATUS                             |
-| :----------------- | :--------------------------------- |
-| **Name**           | Himanshu Verma                     |
-| **Role**           | MERN Stack Developer               |
-| **Strongest Area** | Frontend Engineering               |
-| **Primary Stack**  | MERN                               |
-| **Education**      | BCA • University of Allahabad      |
-| **Open Source**    | GSSoC                              |
-| **Community**      | Beyond Campus                      |
-| **Current Focus**  | Backend • DSA • System Design • AI |
-| **Operating Mode** | Learn • Build • Ship               |
+| PROFILE | DETAILS |
+| :------ | :------ |
+| **Name** | Himanshu Verma |
+| **Role** | MERN Stack Developer |
+| **Strongest Area** | Frontend Engineering |
+| **Primary Stack** | MERN |
+| **Education** | BCA • University of Allahabad |
+| **Open Source** | GSSoC |
+| **Communities** | Beyond Campus • Quantum Quirks |
+| **Current Focus** | Backend • DSA • System Design • AI |
+| **Approach** | Learn • Build • Ship |
 
 </div>
 
 ---
 
-# 🎯 PRIMARY DIRECTIVE
+# 🎯 WHAT I DO
 
-I don't want to just learn frameworks.
-
-I want to understand how a complete product works:
+I like understanding the complete journey of a product rather than focusing on only one layer.
 
 ```text
 IDEA
@@ -97,7 +91,7 @@ My long-term goal is to become a strong **Full Stack / Software Engineer** capab
 
 ---
 
-# 🦾 ARMOR CORE // FRONTEND ENGINEERING
+# 🦾 FRONTEND ENGINEERING
 
 > **Frontend Engineering is my strongest and most developed area.**
 
@@ -152,11 +146,9 @@ Production-oriented UI
 - Three.js
 - Git & GitHub
 
-> **FRONTEND CORE → ONLINE ✓**
-
 ---
 
-# ⚙️ STARK ENGINEERING // MERN STACK
+# ⚙️ FULL STACK DEVELOPMENT // MERN
 
 <div align="center">
 
@@ -199,13 +191,13 @@ Production-oriented UI
 - Error Handling
 - Backend Architecture
 
-> **BACKEND CORE → EXPANDING**
+> **Currently expanding deeper into backend engineering and scalable systems.**
 
 ---
 
-# 🧠 J.A.R.V.I.S. // INTELLIGENCE LAYER
+# 🧠 AI & FUTURE TECHNOLOGY
 
-The next evolution of my stack is **AI-powered software**.
+The next direction of my development journey is **AI-powered software**.
 
 ```text
                          WEB PRODUCT
@@ -223,20 +215,17 @@ The next evolution of my stack is **AI-powered software**.
                └──────────────┴──────────────┘
 ```
 
-My goal isn't simply to use AI tools.
-
-I want to learn how to **engineer real applications that use AI meaningfully**.
+My goal is to learn how to **engineer meaningful applications that use AI**, not simply depend on AI tools.
 
 ---
 
-# 🛠️ ARMOR COMPONENTS // TECHNOLOGY STACK
+# 🛠️ TECHNOLOGY STACK
 
 ### 👨‍💻 Programming Languages
 
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
@@ -320,15 +309,15 @@ I want to learn how to **engineer real applications that use AI meaningfully**.
 
 ---
 
-# 🚀 ENGINEERING MISSIONS
+# 🚀 PROJECTS & ENGINEERING WORK
 
-## 🔴 MISSION 01 // QUANTUM QUIRKS
+## 🔴 QUANTUM QUIRKS
 
 ### Coding Club Platform — University of Allahabad
 
-Working around the digital ecosystem of **Quantum Quirks**, a coding community focused on student developers, technical activities and events.
+I'm involved with **Quantum Quirks**, a coding community focused on student developers, technical activities and events.
 
-### Core Modules
+### Platform Vision
 
 ```text
 EVENT DISCOVERY
@@ -350,19 +339,19 @@ ADMINISTRATION
 
 ---
 
-## 🟡 MISSION 02 // BEYOND CAMPUS
+## 🟡 BEYOND CAMPUS
 
-### Student Opportunity Network
+### Student-Driven Community
 
 **Beyond Campus** is a student-driven community connecting students across colleges, cities and backgrounds.
 
-### Community Ecosystem
+The community focuses on helping students discover and participate in:
 
-`Hackathons` · `Internships` · `Scholarships`
+`Hackathons` · `Coding Competitions` · `Internships` · `Scholarships`
 
-`Competitions` · `Workshops` · `Webinars`
+`Workshops` · `Webinars` · `Conferences` · `Student Networking`
 
-`Conferences` · `Networking`
+### Beyond Campus Socials
 
 <div align="center">
 
@@ -380,13 +369,13 @@ ADMINISTRATION
 
 </div>
 
-**STATUS → ONLINE**
+**STATUS → ACTIVE COMMUNITY**
 
 ---
 
-## 🟢 MISSION 03 // DEVELOPER LAB
+## 🟢 DEVELOPER PROJECTS
 
-Personal projects, experiments and applications built while learning and improving.
+Personal projects and experiments built while learning and improving:
 
 ```text
 PORTFOLIO SYSTEMS
@@ -398,26 +387,13 @@ PORTFOLIO SYSTEMS
       └── Full Stack Experiments
 ```
 
-**STATUS → CONTINUOUSLY BUILDING**
-
 ---
 
-# 🌍 OPEN SOURCE // CONTRIBUTION PROTOCOL
+# 🌍 OPEN SOURCE & COMMUNITY
 
-```text
-                    OPEN SOURCE
+I actively explore open-source contribution, student communities and developer ecosystems.
 
-                         │
-            ┌────────────┼────────────┐
-            ▼            ▼            ▼
-          LEARN      CONTRIBUTE   COLLABORATE
-            │            │            │
-            └────────────┼────────────┘
-                         ▼
-                       BUILD
-```
-
-### Community Involvement
+### Community & Contribution Areas
 
 - GSSoC
 - Open-source contribution
@@ -426,37 +402,38 @@ PORTFOLIO SYSTEMS
 - Technical events
 - Peer learning
 - Collaboration
+- Community building
 
 ---
 
-# 🛰️ CURRENT MISSION // 2026
+# 🛰️ CURRENT GOALS // 2026
 
 <div align="center">
 
-| MODULE               |   STATUS   |
-| :------------------- | :--------: |
+| AREA | STATUS |
+| :--- | :----: |
 | Frontend Engineering | `✓ STRONG` |
-| HTML / CSS           |    `✓`     |
-| JavaScript           |    `✓`     |
-| React                |    `✓`     |
-| Redux                |    `✓`     |
-| Tailwind CSS         |    `✓`     |
-| Responsive UI        |    `✓`     |
-| API Integration      |    `✓`     |
-| Git & GitHub         |    `✓`     |
-| Advanced JavaScript  |    `→`     |
-| Backend Engineering  |    `→`     |
-| Database Engineering |    `→`     |
-| DSA                  |    `→`     |
-| System Design        |    `→`     |
-| AI Integration       |    `→`     |
-| Cloud & DevOps       |    `→`     |
+| HTML / CSS | `✓` |
+| JavaScript | `✓` |
+| React | `✓` |
+| Redux | `✓` |
+| Tailwind CSS | `✓` |
+| Responsive UI | `✓` |
+| API Integration | `✓` |
+| Git & GitHub | `✓` |
+| Advanced JavaScript | `→` |
+| Backend Engineering | `→` |
+| Database Engineering | `→` |
+| DSA | `→` |
+| System Design | `→` |
+| AI Integration | `→` |
+| Cloud & DevOps | `→` |
 
 </div>
 
 ---
 
-# 📊 ARC REACTOR // GITHUB TELEMETRY
+# 📊 GITHUB TELEMETRY
 
 <div align="center">
 
@@ -476,7 +453,7 @@ PORTFOLIO SYSTEMS
 
 ---
 
-# 🔥 REACTOR CORE // CONTRIBUTION STREAK
+# 🔥 GITHUB CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -503,7 +480,7 @@ PORTFOLIO SYSTEMS
 
 ---
 
-# 🏆 STARK ARCHIVE // ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -517,7 +494,7 @@ PORTFOLIO SYSTEMS
 
 ---
 
-# 🧪 J.A.R.V.I.S. // ENGINEERING PHILOSOPHY
+# 🧪 MY ENGINEERING PHILOSOPHY
 
 <div align="center">
 
@@ -530,7 +507,7 @@ PORTFOLIO SYSTEMS
 
 ---
 
-# 📡 COMMUNICATION CHANNELS
+# 📡 CONNECT WITH ME
 
 <div align="center">
 
@@ -554,35 +531,28 @@ PORTFOLIO SYSTEMS
 
 ---
 
-# ⚡ J.A.R.V.I.S. // FINAL TRANSMISSION
+# ⚡ HIMANSHU VERMA
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&height=50&lines=System+Operational.;Keep+Building.;Keep+Learning.;Keep+Shipping.;BUILD.+SHIP.+INNOVATE."
-  alt="Final Transmission"
-/>
+### MERN STACK DEVELOPER · BUILDER · LEARNER
 
-<br/><br/>
-
-### HIMANSHU VERMA
-
-`MERN STACK DEVELOPER` · `BUILDER` · `LEARNER`
+Building products, improving engineering skills, contributing to communities, and continuously learning.
 
 <br/>
 
-> **The work is never finished.**
+> **Build. Learn. Ship. Repeat.**
 
 <br/>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,45:F59E0B,100:050505&height=130&section=footer"
   width="100%"
-  alt="Stark Footer"
+  alt="Stark-style Footer"
 />
 
 <br/>
 
-**⚡ Built with code, curiosity & a little Stark energy. ⚡**
+**Built with code, curiosity & a little Stark energy.**
 
 </div>
