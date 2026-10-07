@@ -22,10 +22,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
+          target_branch: output
+          jekyll: false
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-          BRANCH: output
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
