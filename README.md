@@ -49,17 +49,17 @@ I enjoy turning ideas into real products and learning by building.
 
 <div align="center">
 
-| SYSTEM | STATUS |
-|:---|:---|
-| **Name** | Himanshu Verma |
-| **Role** | MERN Stack Developer |
-| **Strongest Area** | Frontend Engineering |
-| **Primary Stack** | MERN |
-| **Education** | BCA • University of Allahabad |
-| **Open Source** | GSSoC |
-| **Community** | Beyond Campus |
-| **Current Focus** | Backend • DSA • System Design • AI |
-| **Operating Mode** | Learn • Build • Ship |
+| SYSTEM             | STATUS                             |
+| :----------------- | :--------------------------------- |
+| **Name**           | Himanshu Verma                     |
+| **Role**           | MERN Stack Developer               |
+| **Strongest Area** | Frontend Engineering               |
+| **Primary Stack**  | MERN                               |
+| **Education**      | BCA • University of Allahabad      |
+| **Open Source**    | GSSoC                              |
+| **Community**      | Beyond Campus                      |
+| **Current Focus**  | Backend • DSA • System Design • AI |
+| **Operating Mode** | Learn • Build • Ship               |
 
 </div>
 
@@ -433,24 +433,24 @@ PORTFOLIO SYSTEMS
 
 <div align="center">
 
-| MODULE | STATUS |
-|:---|:---:|
+| MODULE               |   STATUS   |
+| :------------------- | :--------: |
 | Frontend Engineering | `✓ STRONG` |
-| HTML / CSS | `✓` |
-| JavaScript | `✓` |
-| React | `✓` |
-| Redux | `✓` |
-| Tailwind CSS | `✓` |
-| Responsive UI | `✓` |
-| API Integration | `✓` |
-| Git & GitHub | `✓` |
-| Advanced JavaScript | `→` |
-| Backend Engineering | `→` |
-| Database Engineering | `→` |
-| DSA | `→` |
-| System Design | `→` |
-| AI Integration | `→` |
-| Cloud & DevOps | `→` |
+| HTML / CSS           |    `✓`     |
+| JavaScript           |    `✓`     |
+| React                |    `✓`     |
+| Redux                |    `✓`     |
+| Tailwind CSS         |    `✓`     |
+| Responsive UI        |    `✓`     |
+| API Integration      |    `✓`     |
+| Git & GitHub         |    `✓`     |
+| Advanced JavaScript  |    `→`     |
+| Backend Engineering  |    `→`     |
+| Database Engineering |    `→`     |
+| DSA                  |    `→`     |
+| System Design        |    `→`     |
+| AI Integration       |    `→`     |
+| Cloud & DevOps       |    `→`     |
 
 </div>
 
@@ -508,7 +508,7 @@ PORTFOLIO SYSTEMS
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=coderHimanshu-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  src="./assets/github-trophies.svg"
   width="100%"
   alt="GitHub Trophies"
 />
